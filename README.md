@@ -322,8 +322,8 @@
 
 # 제 19회 전국주민자치박람회 우수사례 공모 온라인 인터뷰 심사(11/23) 일정
 > 온라인 인터뷰 심사는 ZOOM으로 진행될 예정입니다.  
-> 자세한 사항은 [공문](https://drive.google.com/file/d/11TYFbUDfmyWyqoP9t-A8jW4TSjuw8V5J/view?usp=sharing) 클릭하시면 자세한 사항 안내드리도록하겠습니다. * 공문은 구글드라이브로 연결되어있습니다. 이에 의한 오류가 발생할 수 있습니다. 동일한 내용을 팩스로 발송드릴예정입니다. 
-
+> 자세한 사항은 [공문](https://github.com/parti-coop/juminexpo-notice/files/5565207/_._._._._._.pdf)
+ 클릭하시면 자세한 사항 안내드리도록하겠습니다.
 
 <table>
   <tr>
