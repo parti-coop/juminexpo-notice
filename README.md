@@ -1238,7 +1238,7 @@
    <td>
         지역활성화(가)조
    </td>
-   <td><a href="https://zoom.us/j/97668381034%5C?pwd=ek5kM1luUHhPQURpaW10WnJsNzgyQT09">https://zoom.us/j/97668381034?pwd=ek5kM1luUHhPQURpaW10WnJsNzgyQT09</a> 
+   <td><a href="https://us02web.zoom.us/j/97668381034%5C?pwd=ek5kM1luUHhPQURpaW10WnJsNzgyQT09">https://us02web.zoom.us/j/97668381034?pwd=ek5kM1luUHhPQURpaW10WnJsNzgyQT09</a> 
    </td>
    <td>976 6838 1034
    </td>
