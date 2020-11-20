@@ -1187,7 +1187,100 @@
    <td>
    </td>
   </tr>
+</table>  
+
+# 인터뷰 심사 접속 링크   
+> ### 배정된 인터뷰심사 10분 전에. 해당 심사방의 접속링크를 통해 접속하여 대기방에서 기다려주시기 바랍니다.
+<table>
+  <tr>
+   <td>
+        공모분과
+   </td>
+   <td>
+        인터뷰 심사 접속 링크
+   </td>
+   <td>
+        회의ID
+   </td>
+   <td>
+        암호
+   </td>
+  </tr>
+  <tr>
+   <td>
+        주민자치(가)조
+   </td>
+   <td><a href="https://us02web.zoom.us/j/89615323671%5C?pwd=MzhsMXQ1YTFZazhuMEhnZzJ5MHgrQT09">https://us02web.zoom.us/j/89615323671?pwd=MzhsMXQ1YTFZazhuMEhnZzJ5MHgrQT09</a> 
+   </td>
+   <td>896 1532 3671
+   </td>
+   <td>
+        201123
+   </td>
+  </tr>
+  <tr>
+   <td>
+        주민자치(나)조
+   </td>
+   <td><a href="https://us02web.zoom.us/j/81418599194%5C?pwd=YzZGWUNOYnJncnF5aEtxak1CWCtFUT09">https://us02web.zoom.us/j/81418599194?pwd=YzZGWUNOYnJncnF5aEtxak1CWCtFUT09</a> 
+   </td>
+   <td>814 1859 9194
+   </td>
+   <td>
+        201123
+   </td>
+  </tr>
+  <tr>
+   <td>
+        지역활성화(가)조
+   </td>
+   <td><a href="https://zoom.us/j/97668381034%5C?pwd=ek5kM1luUHhPQURpaW10WnJsNzgyQT09">https://zoom.us/j/97668381034?pwd=ek5kM1luUHhPQURpaW10WnJsNzgyQT09</a> 
+   </td>
+   <td>976 6838 1034
+   </td>
+   <td>
+        201123
+   </td>
+  </tr>
+  <tr>
+   <td>
+        지역활성화(나)조
+   </td>
+   <td><a href="https://us02web.zoom.us/j/87515659322%5C?pwd=d0lUQUxnUGhnRkJOc2p0UzRHYlRIUT09">https://us02web.zoom.us/j/87515659322?pwd=d0lUQUxnUGhnRkJOc2p0UzRHYlRIUT09</a> 
+   </td>
+   <td>875 1565 9322
+   </td>
+   <td>
+        201123
+   </td>
+  </tr>
+  <tr>
+   <td>
+        학습공동체/주민조직
+   </td>
+   <td><a href="https://us04web.zoom.us/j/73409139531%5C?pwd=QStsMTNyYWtiSklWaUkyVzVRTU9ZQT09">https://us04web.zoom.us/j/73409139531?pwd=QStsMTNyYWtiSklWaUkyVzVRTU9ZQT09</a> 
+   </td>
+   <td>734 0913 9531
+   </td>
+   <td>
+        201123
+   </td>
+  </tr>
+  <tr>
+   <td>
+        제도정책
+   </td>
+   <td><a href="https://us04web.zoom.us/j/71744593318%5C?pwd=MmtMbEljdmNNV0FySGRlaUgxYVF6dz09">https://us04web.zoom.us/j/71744593318?pwd=MmtMbEljdmNNV0FySGRlaUgxYVF6dz09</a> 
+   </td>
+   <td>717 4459 3318
+   </td>
+   <td>
+        201123
+   </td>
+  </tr>
 </table>
+
+
 
 
 > 공모 문의 : 마을과 사람(02-3676-6503, pvnet2011@gmail.com)  
