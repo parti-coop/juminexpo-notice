@@ -1,5 +1,5 @@
 # 제 19회 전국주민자치박람회 우수사례 공모 온라인 인터뷰 심사 선정 결과  
-> ### 자세한 사항은 <a href=https://github.com/parti-coop/juminexpo-notice/files/5593941/_._2020.1.pdf>공문</a>을 클릭하시면 안내드리도록하겠습니다.  
+> ### 자세한 사항은 <a href="https://github.com/parti-coop/juminexpo-notice/files/5593941/_._2020.1.pdf">공문</a>을 클릭하시면 안내드리도록하겠습니다.  
 > ### 이전 서류심사 결과가 궁금하신 분은 <a href="https://parti-coop.github.io/juminexpo-notice/doc">여기</a>를 클릭하시면 확인하실수 있습니다.
 
 
